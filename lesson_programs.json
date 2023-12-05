@@ -1,0 +1,115 @@
+{
+  "hours": [
+    { "start": "8:15", "end": "9:00" },
+    { "start": "9:15", "end": "10:00" },
+    { "start": "10:15", "end": "11:00" },
+    { "start": "11:15", "end": "12:00" },
+    { "start": "13:15", "end": "14:00" },
+    { "start": "14:15", "end": "15:00" },
+    { "start": "15:15", "end": "16:00" },
+    { "start": "16:15", "end": "17:00" }
+  ],
+  "days": [
+    {
+      "id": 1,
+      "day": "Pazartesi",
+      "lessons": [
+        {
+          "id": 1,
+          "lesson_code": "BIL203",
+          "lesson_name": "Internet Programcılığı 1",
+          "teacher": "Öğr. Gör. Ahmet Gök",
+          "classroom": "Teams",
+          "colspan": 4
+        },
+        {
+          "id": 2,
+          "lesson_code": "BIL201",
+          "lesson_name": "Görsel Progr. 2",
+          "teacher": "Öğr. Gör. A. Ertuğrul Arık",
+          "classroom": "Teams",
+          "colspan": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "day": "Salı",
+      "lessons": [
+        {
+          "id": 1,
+          "lesson_code": "BIL205",
+          "lesson_name": "Grafik ve Animasyon 1",
+          "teacher": "Öğr. Gör. Mehmet Keleş",
+          "classroom": "Teams",
+          "colspan": 4
+        },
+        {
+          "id": 2,
+          "lesson_code": "BIL207",
+          "lesson_name": "Ağ Temelleri",
+          "teacher": "Öğr. Gör. Mehmet Keleş",
+          "classroom": "Teams",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "day": "Çarşamba",
+      "lessons": [
+        {
+          "id": 1,
+          "lesson_code": "BIL209",
+          "lesson_name": "Veri Tabanı ve Yönetimi 2",
+          "teacher": "Öğr. Gör. Merve Bilgen",
+          "classroom": "Teams",
+          "colspan": 4
+        },
+        {
+          "id": 2,
+          "lesson_code": "BIL211",
+          "lesson_name": "C Programlama 1",
+          "teacher": "Öğr. Gör. Merve Bilgen",
+          "classroom": "Teams",
+          "colspan": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "day": "Perşembe",
+      "lessons": [
+        {
+          "id": 1,
+          "lesson_code": "YON201",
+          "lesson_name": "Yönlendirilmiş Çalışma 1 (C Grubu)",
+          "teacher": "Öğr. Gör. Üyesi Emre Yıldırım",
+          "classroom": "Teams",
+          "colspan": 2
+        },
+        {
+          "id": 2,
+          "lesson_code": "YON201",
+          "lesson_name": "Yönlendirilmiş Çalışma 1 (A Grubu)",
+          "teacher": "Öğr. Gör. Üyesi Emre Yıldırım",
+          "classroom": "Teams",
+          "colspan": 2
+        },
+        {
+          "id": 3,
+          "lesson_code": "YON201",
+          "lesson_name": "Yönlendirilmiş Çalışma 1 (B Grubu)",
+          "teacher": "Öğr. Gör. Üyesi Emre Yıldırım",
+          "classroom": "Teams",
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "day": "Cuma",
+      "lessons": []
+    }
+  ]
+}
