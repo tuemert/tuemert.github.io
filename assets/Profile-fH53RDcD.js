@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-x3n3nnut.js";import{b as r,g as o}from"./index-TgSJX2LT.js";const c={};function t(n,f){return r(),o("div",null," Profile ")}const a=e(c,[["render",t]]);export{a as default};
